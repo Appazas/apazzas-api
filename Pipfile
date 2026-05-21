@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+scikit-learn = "==1.6.1"
+joblib = "*"
+feedparser = "*"
+requests = "*"
+python-dotenv = "*"
+bs4 = "*"
+beautifulsoup4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
