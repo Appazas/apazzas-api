@@ -12,6 +12,7 @@ requests = "*"
 python-dotenv = "*"
 bs4 = "*"
 beautifulsoup4 = "*"
+flask-cors = "*"
 
 [dev-packages]
 
